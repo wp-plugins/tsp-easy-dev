@@ -2,7 +2,7 @@
 /*
 Plugin Name: 	TSP Easy Dev
 Plugin URI: 	http://www.thesoftwarepeople.com/software/plugins/wordpress/easy-dev-for-wordpress.html
-Description: 	Easy Dev is a <strong>WordPress API</strong>. See <a target="_blank" href="http://lab.thesoftwarepeople.com/docs/tsp-easy-dev/">API Docs</a> for information and instructions. <a target="_blank" href="https://twitter.com/#bringbackOOD">#bringbackOOD</a> 
+Description: 	Easy Dev is a <strong>WordPress API</strong>. See <a target="_blank" href="http://lab.thesoftwarepeople.com/tracker/wiki/wordpress-ed:MainPage">API Docs</a> for information and instructions. <a target="_blank" href="https://twitter.com/#bringbackOOD">#bringbackOOD</a> 
 Author: 		The Software People
 Author URI: 	http://www.thesoftwarepeople.com/
 Version: 		1.0
