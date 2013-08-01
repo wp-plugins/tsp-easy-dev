@@ -43,7 +43,7 @@ Includes all of the features of the standard version AND…
 * Additional images and resources
 * `Upgrades includes fixes and new functionality from our community of developers`
 
-Visit [The Software People's Marketplace](http://www.thesoftwarepeople.com/software/plugins/wordpress/easy-dev-for-wordpress.html) to download the Professional Version for Developers.
+Visit [The Software People's Marketplace](http://www.thesoftwarepeople.com/software/) to download the [Professional Version of Easy Dev Developers](http://www.thesoftwarepeople.com/software/plugins/wordpress/easy-dev-for-wordpress.html).
 
 == Installation ==
 
@@ -55,6 +55,22 @@ Visit [The Software People's Marketplace](http://www.thesoftwarepeople.com/softw
 Please see the API documentation in our lab by clicking [here](http://lab.thesoftwarepeople.com/tracker/wiki/wordpress-ed:MainPage).
 
 == Frequently asked questions ==
+
+= What is an API? =
+
+An API, or Application Programming Interface, is a set of libraries (code) that developers can use to interface with (talk to) a larger object. Easy Dev is an API for WordPress. Developers can use our simple API instead of learning how to interface directly with WordPress. Easy Dev's API does all the hard work for you behind the scenes.
+
+= How do I use the API? Where do I begin? =
+
+In our [documentation](http://lab.thesoftwarepeople.com/tracker/wiki/wordpress-ed:MainPage), we have included real plugin examples that are using Easy Dev. Our [complete API](http://lab.thesoftwarepeople.com/docs/tsp-easy-dev/) is also available.
+
+= How do I request new features for Easy Dev? =
+
+Unfortunately, the standard version of Easy Dev (this plugin) will not be updated with new features. For most developers, the standard version of Easy Dev will be enough. However, only the Professional version of Easy Dev will be updated with new features per request. The standard version of Easy Dev updates will include fixes only, no new features.
+
+= Well how do I get Easy Dev Professional? =
+
+Currently, you can get [Easy Dev Professional](http://www.thesoftwarepeople.com/software/plugins/wordpress/easy-dev-for-wordpress.html) from [The Software People's Marketplace](http://www.thesoftwarepeople.com/software/).
 
 = I've installed the script but nothing happens. What did I do wrong? =
 
