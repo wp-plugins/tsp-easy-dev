@@ -58,7 +58,7 @@ Please see the API documentation in our lab by clicking [here](http://lab.thesof
 
 = I've installed the script but nothing happens. What did I do wrong? =
 
-Nothing. The script runs in real-time behind the scenes. Once installed and activated, there are no other steps to take.
+Nothing. The script runs in real-time behind the scenes. Once installed, there are no other steps to take.
 
 == Screenshots ==
 
