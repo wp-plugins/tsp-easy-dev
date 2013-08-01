@@ -8,7 +8,7 @@ Stable tag: 1.0
 License: Apache v2.0
 License URI: http://www.apache.org/licenses/LICENSE-2.0
 
-Create plugins quickly using the our API.
+Create plugins quickly using our API.
 
 == Description ==
 
