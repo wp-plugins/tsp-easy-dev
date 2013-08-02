@@ -83,6 +83,10 @@ Nothing. The script runs in real-time behind the scenes. Once installed, there a
 
 == Changelog ==
 
+= 1.2 =
+* Enhancement: Before passing fields to display_form, set the id and name for user instead of having the user do it.
+* Updated API documentation to reflect that the user no longer has to set id and name
+
 = 1.1 =
 * Support HTML in plugin descriptions. Strip Tags from Widget descriptions.
 
@@ -90,6 +94,9 @@ Nothing. The script runs in real-time behind the scenes. Once installed, there a
 * Launch
 
 == Upgrade notice ==
+
+= 1.2 =
+New enhancement to Widget creation.
 
 = 1.1 =
 Support HTML in plugin descriptions. Strip Tags from Widget descriptions.
