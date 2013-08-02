@@ -4,7 +4,7 @@ Donate link: http://www.thesoftwarepeople.com/software/plugins/wordpress/easy-de
 Tags: API, OO, object oriented, learn, wordpress, add_filter, add_action, tutorial, plugin, application, interface, development, developer
 Requires at least: 3.5.1
 Tested up to: 3.6
-Stable tag: 1.2
+Stable tag: 1.2.1
 License: Apache v2.0
 License URI: http://www.apache.org/licenses/LICENSE-2.0
 
@@ -83,6 +83,9 @@ Nothing. The script runs in real-time behind the scenes. Once installed, there a
 
 == Changelog ==
 
+= 1.2.1 =
+* Updated admin_notices hooks to not use inline functions.
+
 = 1.2 =
 * Enhancement: Before passing fields to display_form, set the id and name for user instead of having the user do it.
 * Updated API documentation to reflect that the user no longer has to set id and name
@@ -94,6 +97,9 @@ Nothing. The script runs in real-time behind the scenes. Once installed, there a
 * Launch
 
 == Upgrade notice ==
+
+= 1.2.1 =
+Maintenance fix.
 
 = 1.2 =
 New enhancement to Widget creation.
