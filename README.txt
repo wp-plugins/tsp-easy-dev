@@ -84,7 +84,7 @@ Nothing. The script runs in real-time behind the scenes. Once installed, there a
 == Changelog ==
 
 = 1.2.2 =
-Required fix to properly store new widget/shortcode attributes into database.
+* Required fix to properly store new widget/shortcode attributes into database.
 
 = 1.2.1 =
 * Updated admin_notices hooks to not use inline functions.
